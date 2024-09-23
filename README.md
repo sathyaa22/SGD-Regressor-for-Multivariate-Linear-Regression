@@ -15,7 +15,7 @@ To write a program to predict the price of the house and number of occupants in 
 5. Parameter Update Rule
 6. Iterative Training
 7. Model Evaluation
-8. End the program.
+8. Stop the program.
 
 ## Program:
 
